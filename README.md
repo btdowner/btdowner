@@ -17,4 +17,5 @@ Associate's degree in general studies with an emphasis in Information Systems
 Certifications 
 --------------
 A+ Certification 
+
 Google IT Support Professional 
