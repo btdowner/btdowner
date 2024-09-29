@@ -16,5 +16,5 @@ Education and Certifications
 
 Certifications 
 --------------
-- [A+ Certification](https://www.credly.com/badges/2b998ce6-1f24-48b4-9483-ce84131d5e70/public_url))
-- Google IT Support Professional 
+- [A+ Certification](https://www.credly.com/badges/2b998ce6-1f24-48b4-9483-ce84131d5e70/public_url)
+- [Google IT Support Professional](https://www.credly.com/badges/eb33ff00-c1e0-4e53-8616-21443e412b04/public_url) 
