@@ -13,8 +13,9 @@ Education and Certifications
 ----------------------------
 - **Associate's degree** in General Studies with an emphasis in **Information Systems** 
    - Pierpont Community and Technical College, 2023
-   - Pursuing - **Bachelor's Degree** in **Network Engineering and Security**
-
+- Pursuing
+- **Bachelor's Degree** in **Network Engineering and Security**
+   -Western Governors University, 2023 - Present 
 Certifications 
 --------------
 - [A+ Certification](https://www.credly.com/badges/2b998ce6-1f24-48b4-9483-ce84131d5e70/public_url)
