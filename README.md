@@ -1,4 +1,4 @@
-### Hello! I'm Brandon 👋
+## Hello! I'm Brandon 👋
 
 
 I'm a dedicated Service Desk Analyst and a student of Network Engineering and Security at Western Governors University. I have always been fascinated by how networks function and how technology can bring people together. From an early age, I have had a deep interest in computers and networking, which has driven me to continuously expand my knowledge in these areas.  
