@@ -11,7 +11,7 @@ In addition to my home lab, I am always working on new certifications to strengt
 
 Education and Certifications 
 ----------------------------
-- Associate's degree in General Studies with an emphasis in Information Systems 
+- **Associate's degree** in General Studies with an emphasis in **Information Systems** 
    - Pierpont Community and Technical College, 2023 
 
 Certifications 
