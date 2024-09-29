@@ -11,6 +11,8 @@ In addition to my home lab, I am always working on new certifications to strengt
 
 Education and Certifications 
 ----------------------------
+Degrees
+-------
 - **Associate's degree** in General Studies with an emphasis in **Information Systems** 
    - Pierpont Community and Technical College, 2023
 - Pursuing - **Bachelor's Degree** in **Network Engineering and Security**
