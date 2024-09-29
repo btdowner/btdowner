@@ -24,5 +24,5 @@ Certifications/Certificates
 - [Google IT Support Professional Certificate](https://www.credly.com/badges/a4a39704-7eee-476d-b004-7b7f598e98b0/public_url)
 - [Google/CompTIA dual credential](https://www.credly.com/badges/eb33ff00-c1e0-4e53-8616-21443e412b04/public_url)
 
-Connect with me
----------------
+Connect with me:
+----------------
