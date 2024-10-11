@@ -25,6 +25,7 @@ Certifications/Certificates
 - [Google/CompTIA dual credential](https://www.credly.com/badges/eb33ff00-c1e0-4e53-8616-21443e412b04/public_url)
 - [LPI Linux Essentials Certification](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000628635/2lbmfv9r94)
 - Pursuing - **Network+ Certification**
+  
 Projects
 --------
 - [Minecraft Server](https://github.com/btdowner/Minecraft-Server)
