@@ -35,8 +35,4 @@ Projects
 --------
 - [Minecraft Server](https://github.com/btdowner/Minecraft-Server)
 - [Cisco Console Server for CCNA Home Lab](https://github.com/btdowner/Cisco-Console-Server-for-CCNA-Home-Lab)
-
-
-
-Connect with me:
 ----------------
