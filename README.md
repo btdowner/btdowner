@@ -20,11 +20,16 @@ Degrees
      
 Certifications/Certificates
 ---------------------------
-- [A+ Certification](https://www.credly.com/badges/2b998ce6-1f24-48b4-9483-ce84131d5e70/public_url)
-- [Google IT Support Professional Certificate](https://www.credly.com/badges/a4a39704-7eee-476d-b004-7b7f598e98b0/public_url)
+- [A+ Certification,CompTIA](https://www.credly.com/badges/2b998ce6-1f24-48b4-9483-ce84131d5e70/public_url)
+- [IT Support Professional Certificate, Google](https://www.credly.com/badges/a4a39704-7eee-476d-b004-7b7f598e98b0/public_url)
 - [Google/CompTIA dual credential](https://www.credly.com/badges/eb33ff00-c1e0-4e53-8616-21443e412b04/public_url)
-- [LPI Linux Essentials Certification](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000628635/2lbmfv9r94)
-- Pursuing - **Network+ Certification**
+- [Linux Essentials Certification, LPI](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000628635/2lbmfv9r94)
+- [Network+ Certification, CompTIA](https://www.credly.com/badges/2532fddb-a1db-4e69-b97d-81ee1d2a07f8/public_url)
+- [CIOS Certification, CompTIA](https://www.credly.com/badges/d96dc0ef-85eb-4c46-b559-de2f1d59d17f/public_url)
+- [Security+ Certification, CompTIA](https://www.credly.com/badges/a681f4a2-1ed5-4946-bedb-497c0ac5b2a1/public_url)
+- [CSIS, CompTIA](https://www.credly.com/badges/4a3fe585-463a-4215-9b3e-c31e6f308d9b/public_url)
+- [ITIL 4 Foundation]
+- [CCNA - Pending
   
 Projects
 --------
