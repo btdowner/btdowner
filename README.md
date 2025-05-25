@@ -28,8 +28,8 @@ Certifications/Certificates
 - [CIOS Certification, CompTIA](https://www.credly.com/badges/d96dc0ef-85eb-4c46-b559-de2f1d59d17f/public_url)
 - [Security+ Certification, CompTIA](https://www.credly.com/badges/a681f4a2-1ed5-4946-bedb-497c0ac5b2a1/public_url)
 - [CSIS, CompTIA](https://www.credly.com/badges/4a3fe585-463a-4215-9b3e-c31e6f308d9b/public_url)
-- [ITIL 4 Foundation]
-- [CCNA - Pending
+- ITIL 4 Foundation, Axelos
+- CCNA, Cisco - Pending
   
 Projects
 --------
