@@ -1,5 +1,9 @@
-# Hello, I'm Brandon! 👋
+Brandon Thomas Downer | IT Portfolio 
 
+Aspiring Network Engineer | WGU Student | Service Desk Analyst
+📍 Chesterfield, SC
+📧 brandon.thomas.downer@outlook.com
+🔗 [LinkedIn](https://www.linkedin.com/in/brandonthomasdowner)
 
 I'm a dedicated Service Desk Analyst and a student of Network Engineering and Security at Western Governors University. I have always been fascinated by how networks function and how technology can bring people together. From an early age, I have had a deep interest in computers and networking, which has driven me to continuously expand my knowledge in these areas.  
 
