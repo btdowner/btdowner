@@ -44,8 +44,8 @@ I bridge the gap between "theory" and "practice" by maintaining an extensive hom
 | :--- | :--- | :--- |
 | **CompTIA Network+** | **CompTIA Security+** | **ITIL 4 Foundation** |
 | **CompTIA A+** | **CompTIA Cloud+** | **LPI Linux Essentials** |
-| **Cisco CCNA** (In Progress) | **CompTIA CCAP / CSCP** | **Google IT Support** |
-| | **Comptia CSIS / CIOS** | **IT Suppport / A+ Dual Credential** |
+| **Comptia CSIS / CIOS** | **CompTIA CCAP / CSCP** | **Google IT Support** |
+| **Cisco CCNA** (In Progress) |  | **IT Suppport / A+ Dual Credential** |
 ---
 
 ### 🛠️ Tech Stack
