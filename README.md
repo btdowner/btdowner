@@ -17,7 +17,7 @@ I bridge the gap between "theory" and "practice" by maintaining an extensive hom
 ### ⚙️ Homelab Experience
 
 #### ✅ Featured Projects
-* **Cisco Console Server for CCNA Lab**.  
+* [**Cisco Console Server for CCNA Lab**](https://github.com/btdowner/Cisco-Console-Server-for-CCNA-Home-Lab/deployments/github-pages)  
       Raspberry Pi-based serial console setup for managing multiple Cisco routers and switches for daily CLI practice.  
 * **Zyxel GS2210-24HP Switch Restoration**  
       Hardware modification (Noctua fan swap), custom re-pinning, and full console-based factory reset/VLAN configuration.
