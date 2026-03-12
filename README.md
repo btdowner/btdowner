@@ -17,21 +17,29 @@ I bridge the gap between "theory" and "practice" by maintaining an extensive hom
 ### ⚙️ Homelab Experience
 
 #### ✅ Featured Projects
-* **Cisco Console Server for CCNA Lab** Raspberry Pi-based serial console setup for managing multiple Cisco routers and switches for daily CLI practice.
-* **Zyxel GS2210-24HP Switch Restoration** Hardware modification (Noctua fan swap), custom re-pinning, and full console-based factory reset/VLAN configuration.
+* **Cisco Console Server for CCNA Lab**  
+      Raspberry Pi-based serial console setup for managing multiple Cisco routers and switches for daily CLI practice.  
+* **Zyxel GS2210-24HP Switch Restoration**  
+      Hardware modification (Noctua fan swap), custom re-pinning, and full console-based factory reset/VLAN configuration.
 
 #### 🚧 Projects I'm working on
-* **Enterprise-Scale SOHO Network: Omada SDN & Multi-VLAN Architecture** Implementing a multi-VLAN schema (VLANs 10-60) for isolation using a Docker-hosted Omada controller, pfSense firewall, and automated Dual-WAN failover.
-* **High-Availability Storage Cluster: Primary & Secondary TrueNAS SCALE** Redundant storage solution utilizing ZFS replication and automated snapshots across a 15-bay Fractal chassis and a Dell 7010 server.
-* **Layer 2 Wireless Bridge & WireGuard VPN Tunnel** Deploying an 802.11s mesh tunnel for transparent network extension between buildings with integrated secure remote access.
+* **Enterprise-Scale SOHO Network: Omada SDN & Multi-VLAN Architecture**  
+      Implementing a multi-VLAN schema (VLANs 10-60) for isolation using a Docker-hosted Omada controller, pfSense firewall, and automated Dual-WAN failover.  
+* **High-Availability Storage Cluster: Primary & Secondary TrueNAS SCALE**  
+      Redundant storage solution utilizing ZFS replication and automated snapshots across a 15-bay Fractal chassis and a Dell 7010 server.  
+* **Layer 2 Wireless Bridge & WireGuard VPN Tunnel**  
+      Deploying an 802.11s mesh tunnel for transparent network extension between buildings with integrated secure remote access.
 
 
 ---
 
 #### 🚀 Technical Roadmap (In-Progress)
-* **Active Directory Lab:** Windows Server environment for GPO, DHCP, and client management.
-* **Monitoring Stack:** Deploying **Grafana & Prometheus** for real-time network telemetry.
-* **Automation:** Python-based network automation for configuration management (WGU D522).
+* **Active Directory Lab:**
+     Windows Server environment for GPO, DHCP, and client management.
+* **Monitoring Stack:** Deploying **Grafana & Prometheus**  
+     For real-time network telemetry.
+* **Automation:**  
+     Python-based network automation for configuration management (WGU D522).
 
 ---
 
