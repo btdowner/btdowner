@@ -67,7 +67,7 @@ I’m currently deep-diving into **CCNA certification** and **Python automation*
     <th colspan="4" align="left"><h3>🌐 Networking & Systems</h3></th>
   </tr>
   <tr>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/Cisco-CCNA_(Pending)-grey?style=for-the-badge" /><br/><b>CCNA</b></a></td>
+    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/Cisco-CCNA_(Pending)-yellow?style=for-the-badge" /><br/><b>CCNA</b></a></td>
     <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/CompTIA-Network%2B-007ACC?style=for-the-badge" /><br/><b>Network+</b></a></td>
     <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/CompTIA-Cloud%2B-538124?style=for-the-badge" /><br/><b>Cloud+</b></a></td>
     <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/LPI-Linux_Essentials-333333?style=for-the-badge" /><br/><b>Linux Essentials</b></a></td>
