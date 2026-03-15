@@ -63,30 +63,27 @@ I’m currently deep-diving into **CCNA certification** and **Python automation*
   </tr>
 
   <tr>
-    <th colspan="4" align="left"><h3>🌐 Networking & Systems</h3></th>
+    <th colspan="4" align="left"><h3>🌐 Advanced Networking & Systems</h3></th>
   </tr>
   <tr>
     <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/Cisco-CCNA-049FD9?style=for-the-badge" /><br/><b>CCNA</b></a></td>
     <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/LPI-Linux_Ess.-333333?style=for-the-badge" /><br/><b>Linux Essentials</b></a></td>
     <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/CompTIA-Cloud%2B-538124?style=for-the-badge" /><br/><b>Cloud+</b></a></td>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/AWS-Cloud_Prac.-FF9900?style=for-the-badge" /><br/><b>AWS CCP</b></a></td>
-  </tr>
-
-  <tr>
-    <th colspan="4" align="left"><h3>📊 Business & Analysis</h3></th>
-  </tr>
-  <tr>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/CompTIA-Project%2B-9C27B0?style=for-the-badge" /><br/><b>Project+</b></a></td>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/WGU-Data_Stat.-blue?style=for-the-badge" /><br/><b>Data Stats</b></a></td>
     <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/CompTIA-CySA%2B-red?style=for-the-badge" /><br/><b>CySA+</b></a></td>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/MS-Azure_Fund.-0089D6?style=for-the-badge" /><br/><b>AZ-900</b></a></td>
   </tr>
 
   <tr>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/CompTIA-Stackable-grey?style=for-the-badge" /><br/><b>CIOS</b></a></td>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/CompTIA-Stackable-grey?style=for-the-badge" /><br/><b>CSIS</b></a></td>
-    <td colspan="2"></td> </tr>
-</table>
+    <th colspan="4" align="left"><h3>🏆 CompTIA Stackable Certifications</h3></th>
+  </tr>
+  <tr>
+    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/CompTIA-CIOS-grey?style=for-the-badge" /><br/><b>CIOS</b></a></td>
+    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/CompTIA-CSIS-grey?style=for-the-badge" /><br/><b>CSIS</b></a></td>
+    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/CompTIA-CCAP-grey?style=for-the-badge" /><br/><b>CCAP</b></a></td>
+    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/CompTIA-CSCP-grey?style=for-the-badge" /><br/><b>CSCP</b></a></td>
+  </tr>
+
+  <tr>
+    <td align="center"><a href="INSERT_LINK_
 ---
 
 ### 🛠️ Tech Stack
