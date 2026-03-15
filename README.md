@@ -56,29 +56,30 @@ I’m currently deep-diving into **CCNA certification** and **Python automation*
 
 <table>
   <tr>
-    <td><a href="INSERT_LINK">A+</a></td>
-    <td><a href="INSERT_LINK">Security+</a></td>
-    <td><a href="INSERT_LINK">Google IT Support</a></td>
+    <th><h3>🛠️ Core IT</h3></th>
+    <th><h3>🌐 Networking & Systems</h3></th>
+    <th><h3>🏆 Stackable Designations</h3></th>
   </tr>
   <tr>
-    <td><a href="INSERT_LINK">A+ / Google Dual</a></td>
-    <td><a href="INSERT_LINK">CCNA (Pending)</a></td>
-    <td><a href="INSERT_LINK">Network+</a></td>
-  </tr>
-  <tr>
-    <td><a href="INSERT_LINK">Cloud+</a></td>
-    <td><a href="INSERT_LINK">Linux Essentials</a></td>
-    <td><a href="INSERT_LINK">ITIL 4</a></td>
-  </tr>
-  <tr>
-    <td><a href="INSERT_LINK">CIOS</a></td>
-    <td><a href="INSERT_LINK">CSIS</a></td>
-    <td><a href="INSERT_LINK">CCAP</a></td>
-  </tr>
-  <tr>
-    <td><a href="INSERT_LINK">CSCP</a></td>
-    <td></td>
-    <td></td>
+    <td valign="top">
+      • <a href="INSERT_LINK">A+</a><br>
+      • <a href="INSERT_LINK">Security+</a><br>
+      • <a href="INSERT_LINK">Google IT Support</a><br>
+      • <a href="INSERT_LINK">A+ / Google Dual</a>
+    </td>
+    <td valign="top">
+      • <a href="INSERT_LINK">CCNA (Pending)</a><br>
+      • <a href="INSERT_LINK">Network+</a><br>
+      • <a href="INSERT_LINK">Cloud+</a><br>
+      • <a href="INSERT_LINK">Linux Essentials</a><br>
+      • <a href="INSERT_LINK">ITIL 4</a>
+    </td>
+    <td valign="top">
+      • <a href="INSERT_LINK">CIOS</a><br>
+      • <a href="INSERT_LINK">CSIS</a><br>
+      • <a href="INSERT_LINK">CCAP</a><br>
+      • <a href="INSERT_LINK">CSCP</a>
+    </td>
   </tr>
 </table>
 
