@@ -58,19 +58,65 @@ I’m currently deep-diving into **CCNA certification** and **Python automation*
     <th colspan="4" align="left"><h3>🛠️ Core IT & Operations</h3></th>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.credly.com/badges/75a2c24e-ef95-4b84-8abe-9e9e2b902ef1/public_url"><img src="https://img.shields.io/badge/A%2B-orange?style=for-the-badge&logo=comptia&logoColor=white" /></a></td>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/Security%2B-BC002D?style=for-the-badge&logo=comptia&logoColor=white" /></a></td>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/Google_IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a></td>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/A%2B_%2F_Google_Dual-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /></a></td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/75a2c24e-ef95-4b84-8abe-9e9e2b902ef1/public_url">
+        <img src="https://img.shields.io/badge/CompTIA-A%2B-orange?style=for-the-badge" /><br/>
+        <span style="color: white;"><b>A+</b></span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="INSERT_LINK_HERE">
+        <img src="https://img.shields.io/badge/CompTIA-Security%2B-BC002D?style=for-the-badge" /><br/>
+        <span style="color: white;"><b>Security+</b></span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="INSERT_LINK_HERE">
+        <img src="https://img.shields.io/badge/Google-IT_Support-4285F4?style=for-the-badge" /><br/>
+        <span style="color: white;"><b>Google IT Support</b></span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="INSERT_LINK_HERE">
+        <img src="https://img.shields.io/badge/Coursera-Dual_Credential-0056D2?style=for-the-badge" /><br/>
+        <span style="color: white;"><b>A+ / Google Dual</b></span>
+      </a>
+    </td>
   </tr>
 
   <tr>
     <th colspan="4" align="left"><h3>🌐 Networking & Systems</h3></th>
   </tr>
   <tr>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/CCNA_(Pending)-yellow?style=for-the-badge&logo=cisco&logoColor=black" /></a></td>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/Network%2B-007ACC?style=for-the-badge&logo=comptia&logoColor=white" /></a></td>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="
+    <td align="center">
+      <a href="INSERT_LINK_HERE">
+        <img src="https://img.shields.io/badge/Cisco-CCNA_(Pending)-yellow?style=for-the-badge" /><br/>
+        <span style="color: white;"><b>CCNA (Pending)</b></span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="INSERT_LINK_HERE">
+        <img src="https://img.shields.io/badge/CompTIA-Network%2B-007ACC?style=for-the-badge" /><br/>
+        <span style="color: white;"><b>Network+</b></span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="INSERT_LINK_HERE">
+        <img src="https://img.shields.io/badge/CompTIA-Cloud%2B-538124?style=for-the-badge" /><br/>
+        <span style="color: white;"><b>Cloud+</b></span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="INSERT_LINK_HERE">
+        <img src="https://img.shields.io/badge/LPI-Linux_Essentials-333333?style=for-the-badge" /><br/>
+        <span style="color: white;"><b>Linux Essentials</b></span>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="INSERT_LINK_HERE">
+        <img src="
 
 ---
 
