@@ -52,33 +52,34 @@ I’m currently deep-diving into **CCNA certification** and **Python automation*
 
 ### 📜 Certifications
 ---
+
 <table>
   <tr>
     <th colspan="4" align="left"><h3>🛠️ Core IT & Operations</h3></th>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.credly.com/badges/75a2c24e-ef95-4b84-8abe-9e9e2b902ef1/public_url">
+      <a href="https://www.credly.com/badges/75a2c24e-ef95-4b84-8abe-9e9e2b902ef1/public_url" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/CompTIA-A%2B-orange?style=for-the-badge" /><br/>
-        <b>A+</b>
+        <font color="white"><b>A+</b></font>
       </a>
     </td>
     <td align="center">
-      <a href="INSERT_LINK_HERE">
+      <a href="INSERT_LINK_HERE" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/CompTIA-Security%2B-BC002D?style=for-the-badge" /><br/>
-        <b>Security+</b>
+        <font color="white"><b>Security+</b></font>
       </a>
     </td>
     <td align="center">
-      <a href="INSERT_LINK_HERE">
+      <a href="INSERT_LINK_HERE" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/Google-IT_Support-4285F4?style=for-the-badge" /><br/>
-        <b>Google IT Support</b>
+        <font color="white"><b>Google IT Support</b></font>
       </a>
     </td>
     <td align="center">
-      <a href="INSERT_LINK_HERE">
+      <a href="INSERT_LINK_HERE" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/Coursera-Dual_Credential-0056D2?style=for-the-badge" /><br/>
-        <b>A+ / Google Dual</b>
+        <font color="white"><b>A+ / Google Dual</b></font>
       </a>
     </td>
   </tr>
@@ -88,35 +89,35 @@ I’m currently deep-diving into **CCNA certification** and **Python automation*
   </tr>
   <tr>
     <td align="center">
-      <a href="INSERT_LINK_HERE">
+      <a href="INSERT_LINK_HERE" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/Cisco-CCNA_(Pending)-yellow?style=for-the-badge" /><br/>
-        <b>CCNA</b>
+        <font color="white"><b>CCNA</b></font>
       </a>
     </td>
     <td align="center">
-      <a href="INSERT_LINK_HERE">
+      <a href="INSERT_LINK_HERE" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/CompTIA-Network%2B-007ACC?style=for-the-badge" /><br/>
-        <b>Network+</b>
+        <font color="white"><b>Network+</b></font>
       </a>
     </td>
     <td align="center">
-      <a href="INSERT_LINK_HERE">
+      <a href="INSERT_LINK_HERE" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/CompTIA-Cloud%2B-538124?style=for-the-badge" /><br/>
-        <b>Cloud+</b>
+        <font color="white"><b>Cloud+</b></font>
       </a>
     </td>
     <td align="center">
-      <a href="INSERT_LINK_HERE">
+      <a href="INSERT_LINK_HERE" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/LPI-Linux_Essentials-333333?style=for-the-badge" /><br/>
-        <b>Linux Essentials</b>
+        <font color="white"><b>Linux Essentials</b></font>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="INSERT_LINK_HERE">
+      <a href="INSERT_LINK_HERE" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/Axelos-ITIL_4-733F94?style=for-the-badge" /><br/>
-        <b>ITIL 4</b>
+        <font color="white"><b>ITIL 4</b></font>
       </a>
     </td>
     <td colspan="3"></td>
@@ -127,20 +128,32 @@ I’m currently deep-diving into **CCNA certification** and **Python automation*
   </tr>
   <tr>
     <td align="center">
-      <a href="INSERT_LINK_HERE">
+      <a href="INSERT_LINK_HERE" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/CompTIA-CIOS-E94333?style=for-the-badge" /><br/>
-        <b>CIOS</b>
+        <font color="white"><b>CIOS</b></font>
       </a>
     </td>
     <td align="center">
-      <a href="INSERT_LINK_HERE">
+      <a href="INSERT_LINK_HERE" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/CompTIA-CSIS-2496ED?style=for-the-badge" /><br/>
-        <b>CSIS</b>
+        <font color="white"><b>CSIS</b></font>
       </a>
     </td>
     <td align="center">
-      <a href="INSERT_LINK_HERE">
-        <img src="
+      <a href="INSERT_LINK_HERE" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/CompTIA-CCAP-512BD4?style=for-the-badge" /><br/>
+        <font color="white"><b>CCAP</b></font>
+      </a>
+    </td>
+    <td align="center">
+      <a href="INSERT_LINK_HERE" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/CompTIA-CSCP-00C7B7?style=for-the-badge" /><br/>
+        <font color="white"><b>CSCP</b></font>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 🛠️ Tech Stack
