@@ -65,6 +65,6 @@ I’m currently deep-diving into **CCNA certification** and **Python automation*
 **Tools:** Python, Linux (Debian/Ubuntu), Grafana, Portainer
 
 ### 📂 Full Project List
-* Cisco Console Server for CCNA Lab  
-* Zyxel GS2210-24HP Switch Restoration  
+* 🗄️ [**Cisco Console Server for CCNA Lab**](https://btdowner.github.io/Console_Server/)  
+* ⚙️ [**Zyxel GS2210-24HP Switch Restoration**](https://btdowner.github.io/Zyxel_Switch/) 
 * 🎮 [**Virtualized Game Server Deployment: Minecraft Bedrock on Proxmox VE**](https://btdowner.github.io/Minecraft_Server/) 
