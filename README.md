@@ -54,9 +54,7 @@ I’m currently deep-diving into **CCNA certification** and **Python automation*
 | Core Infrastructure | Security & Cloud | Specialty |
 | :--- | :--- | :--- |
 | **CompTIA Network+** | **CompTIA Security+** | **ITIL 4 Foundation** |
-| <a href="https://www.credly.com/badges/75a2c24e-ef95-4b84-8abe-9e9e2b902ef1/public_url">
-  <img src="https://images.credly.com/size/110x110/images/63354451-ac39-49a0-8041-332909403b22/image.png" width="100" alt="CompTIA A+ Badge">
-</a> | **CompTIA Cloud+** | **LPI Linux Essentials** |
+| [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-FF8111?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/75a2c24e-ef95-4b84-8abe-9e9e2b902ef1/public_url) | **CompTIA Cloud+** | **LPI Linux Essentials** |
 | **Comptia CSIS / CIOS** | **CompTIA CCAP / CSCP** | **Google IT Support** |
 | **Cisco CCNA** (In Progress) |  | **IT Suppport / A+ Dual Credential** |
 ---
