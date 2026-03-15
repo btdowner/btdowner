@@ -51,41 +51,34 @@ I’m currently deep-diving into **CCNA certification** and **Python automation*
 * **Pierpont Community & Technical College** | *A.S. Information Systems*
 
 ### 📜 Certifications
+
 ---
 
 <table>
   <tr>
-    <th colspan="4" align="left"><h3>🛠️ Core IT & Operations</h3></th>
+    <td><a href="INSERT_LINK">A+</a></td>
+    <td><a href="INSERT_LINK">Security+</a></td>
+    <td><a href="INSERT_LINK">Google IT Support</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.credly.com/badges/75a2c24e-ef95-4b84-8abe-9e9e2b902ef1/public_url"><img src="https://img.shields.io/badge/A%2B-Certified-orange?style=for-the-badge&logo=comptia" /></a></td>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/Security%2B-Certified-BC002D?style=for-the-badge&logo=comptia" /></a></td>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/Google_IT-Support-4285F4?style=for-the-badge&logo=google" /></a></td>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/Dual_Credential-A%2B_%2F_Google-0056D2?style=for-the-badge" /></a></td>
-  </tr>
-
-  <tr>
-    <th colspan="4" align="left"><h3>🌐 Networking & Systems</h3></th>
+    <td><a href="INSERT_LINK">A+ / Google Dual</a></td>
+    <td><a href="INSERT_LINK">CCNA (Pending)</a></td>
+    <td><a href="INSERT_LINK">Network+</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/CCNA-Pending-yellow?style=for-the-badge&logo=cisco" /></a></td>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/Network%2B-Certified-007ACC?style=for-the-badge&logo=comptia" /></a></td>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/Cloud%2B-Certified-538124?style=for-the-badge&logo=comptia" /></a></td>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/Linux_Essentials-LPI-333333?style=for-the-badge&logo=linux" /></a></td>
+    <td><a href="INSERT_LINK">Cloud+</a></td>
+    <td><a href="INSERT_LINK">Linux Essentials</a></td>
+    <td><a href="INSERT_LINK">ITIL 4</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/ITIL_4-Foundation-733F94?style=for-the-badge" /></a></td>
-    <td colspan="3"></td>
-  </tr>
-
-  <tr>
-    <th colspan="4" align="left"><h3>🏆 CompTIA Stackable Certifications</h3></th>
+    <td><a href="INSERT_LINK">CIOS</a></td>
+    <td><a href="INSERT_LINK">CSIS</a></td>
+    <td><a href="INSERT_LINK">CCAP</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/Stackable-CIOS-E94333?style=for-the-badge" /></a></td>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/Stackable-CSIS-2496ED?style=for-the-badge" /></a></td>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/Stackable-CCAP-512BD4?style=for-the-badge" /></a></td>
-    <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/Stackable-CSCP-00C7B7?style=for-the-badge" /></a></td>
+    <td><a href="INSERT_LINK">CSCP</a></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
