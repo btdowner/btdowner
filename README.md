@@ -62,7 +62,7 @@ I’m currently deep-diving into **CCNA certification** and **Python automation*
   </tr>
   <tr>
     <td valign="top">
-      • <a href="INSERT_LINK">A+</a><br>
+      • <a href="https://www.credly.com/badges/75a2c24e-ef95-4b84-8abe-9e9e2b902ef1/public_url">A+</a><br>
       • <a href="INSERT_LINK">Security+</a><br>
       • <a href="INSERT_LINK">Google IT Support</a><br>
       • <a href="INSERT_LINK">A+ / Google Dual</a>
