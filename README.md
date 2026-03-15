@@ -67,4 +67,4 @@ I’m currently deep-diving into **CCNA certification** and **Python automation*
 ### 📂 Full Project List
 * Cisco Console Server for CCNA Lab  
 * Zyxel GS2210-24HP Switch Restoration  
-* Virtualized Game Server Deployment: Minecraft Bedrock on Proxmox VE  
+* 🎮[**Virtualized Game Server Deployment: Minecraft Bedrock on Proxmox VE](https://btdowner.github.io/Minecraft-Server/)  
