@@ -78,7 +78,7 @@ I’m currently deep-diving into **CCNA certification** and **Python automation*
       • <a href="https://www.credly.com/badges/d96dc0ef-85eb-4c46-b559-de2f1d59d17f/public_url">CIOS</a><br>
       • <a href="https://www.credly.com/badges/4a3fe585-463a-4215-9b3e-c31e6f308d9b/public_url">CSIS</a><br>
       • <a href="https://www.credly.com/badges/51399a91-cb5e-481c-a0d0-18224bd08eab">CCAP</a><br>
-      • <a href="https://www.credly.com/users/brandon-downer.9297092a/badges#credly">CSCP</a>
+      • <a href="https://www.credly.com/badges/ea893333-1c8f-47f5-afc4-befc93e3b0d5/public_url">CSCP</a>
     </td>
   </tr>
 </table>
