@@ -20,9 +20,9 @@ I’m currently deep-diving into **CCNA certification** and **Python automation*
 ### ⚙️ Homelab Experience
 
 #### ✅ Featured Projects
-* 🗄️ [**Cisco Console Server for CCNA Lab**](https://btdowner.github.io/Cisco-Console-Server-for-CCNA-Home-Lab/)  
+* 🗄️ [**Cisco Console Server for CCNA Lab**](https://btdowner.github.io/Console_Server/)  
       Raspberry Pi-based serial console setup for managing multiple Cisco routers and switches for daily CLI practice.  
-* ⚙️ [**Zyxel GS2210-24HP Switch Restoration**](https://btdowner.github.io/Zyxel-GS2210-24HP-Switch-Restoration-Project/)  
+* ⚙️ [**Zyxel GS2210-24HP Switch Restoration**](https://btdowner.github.io/Zyxel_Switch/)  
       Hardware modification (Noctua fan swap), custom re-pinning, and full console-based factory reset/VLAN configuration.
 
 #### 🚧 Projects I'm working on
@@ -67,4 +67,4 @@ I’m currently deep-diving into **CCNA certification** and **Python automation*
 ### 📂 Full Project List
 * Cisco Console Server for CCNA Lab  
 * Zyxel GS2210-24HP Switch Restoration  
-* 🎮 [**Virtualized Game Server Deployment: Minecraft Bedrock on Proxmox VE**](https://btdowner.github.io/Minecraft-Server/) 
+* 🎮 [**Virtualized Game Server Deployment: Minecraft Bedrock on Proxmox VE**](https://btdowner.github.io/Minecraft_Server/) 
