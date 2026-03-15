@@ -7,10 +7,13 @@
 
 ---
 
-### 👋 About Me
-Hi there! I'm Brandon, a Service Desk Analyst and student at **Western Governors University**, pursuing a B.S. in **Cloud and Network Engineering**. 
+# 👋 About Me
 
-I bridge the gap between "theory" and "practice" by maintaining an extensive home lab where I deploy enterprise-grade networking gear, virtualization clusters, and automated storage solutions.
+Hi, I’m **Brandon**, a **Service Desk Analyst** and **Network Engineering** student at **Western Governors University**. My mission is to transition into a **Network Engineering** role where I can apply my experience in enterprise support and complex systems architecture.
+
+I specialize in bridging the gap between academic theory and enterprise-level execution. My "sandbox" is an extensive **home lab** where I architect and manage **Proxmox virtualization clusters**, **TrueNAS storage solutions**, and a full **TP-Link Omada SDN ecosystem**. 
+
+I’m currently deep-diving into **CCNA certification** and **Python automation** to prepare for the next step in my networking career.
 
 ---
 
