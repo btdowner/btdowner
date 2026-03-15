@@ -22,7 +22,7 @@ I’m currently deep-diving into **CCNA certification** and **Python automation*
 #### ✅ Featured Projects
 * 🗄️ [**Cisco Console Server for CCNA Lab**](https://btdowner.github.io/Cisco-Console-Server-for-CCNA-Home-Lab/)  
       Raspberry Pi-based serial console setup for managing multiple Cisco routers and switches for daily CLI practice.  
-* **Zyxel GS2210-24HP Switch Restoration**  
+* ⚙️ [**Zyxel GS2210-24HP Switch Restoration**](https://btdowner.github.io/Zyxel-GS2210-24HP-Switch-Restoration-Project/)  
       Hardware modification (Noctua fan swap), custom re-pinning, and full console-based factory reset/VLAN configuration.
 
 #### 🚧 Projects I'm working on
