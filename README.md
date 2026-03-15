@@ -72,7 +72,7 @@ I’m currently deep-diving into **CCNA certification** and **Python automation*
       • <a href="https://www.credly.com/badges/2532fddb-a1db-4e69-b97d-81ee1d2a07f8/public_url">Network+</a><br>
       • <a href="https://www.credly.com/badges/f8d0e901-a281-4342-8999-a5caeace62b2">Cloud+</a><br>
       • <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000628635/2lbmfv9r94">Linux Essentials</a><br>
-      • ITIL Foundation<br>
+      • <a href="https://www.peoplecert.org/public-profile?ed=XCHu3ZqUTNLdQKlfJZRkJHUab%2b8Ya9Bm"> ITIL Foundation</a><br>
     </td>
     <td valign="top">
       • <a href="https://www.credly.com/badges/d96dc0ef-85eb-4c46-b559-de2f1d59d17f/public_url">CIOS</a><br>
