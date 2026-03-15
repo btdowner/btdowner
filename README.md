@@ -58,7 +58,7 @@ I’m currently deep-diving into **CCNA certification** and **Python automation*
     <th colspan="4" align="left"><h3>🛠️ Core IT & Operations</h3></th>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.credly.com/badges/75a2c24e-ef95-4b84-8abe-9e9e2b902ef1/public_url"><img src="https://img.shields.io/badge/A%2B-Certified-orange?style=for-the-badge&logo=comptia" /></a></td>
+    <td align="center"><a href="https://www.credly.com/badges/75a2c24e-ef95-4b84-8abe-9e9e2b902ef1/public_url"><img src="https://img.shields.io/badge/A%2B-orange?style=for-the-badge&logo=comptia" /></a></td>
     <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/Security%2B-Certified-BC002D?style=for-the-badge&logo=comptia" /></a></td>
     <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/Google_IT-Support-4285F4?style=for-the-badge&logo=google" /></a></td>
     <td align="center"><a href="INSERT_LINK_HERE"><img src="https://img.shields.io/badge/Dual_Credential-A%2B_%2F_Google-0056D2?style=for-the-badge" /></a></td>
