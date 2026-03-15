@@ -20,7 +20,7 @@ I’m currently deep-diving into **CCNA certification** and **Python automation*
 ### ⚙️ Homelab Experience
 
 #### ✅ Featured Projects
-* [**Cisco Console Server for CCNA Lab**](https://btdowner.github.io/Cisco-Console-Server-for-CCNA-Home-Lab/)  
+* 🗄️ [**Cisco Console Server for CCNA Lab**](https://btdowner.github.io/Cisco-Console-Server-for-CCNA-Home-Lab/)  
       Raspberry Pi-based serial console setup for managing multiple Cisco routers and switches for daily CLI practice.  
 * **Zyxel GS2210-24HP Switch Restoration**  
       Hardware modification (Noctua fan swap), custom re-pinning, and full console-based factory reset/VLAN configuration.
