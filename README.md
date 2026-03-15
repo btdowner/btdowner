@@ -51,12 +51,18 @@ I’m currently deep-diving into **CCNA certification** and **Python automation*
 * **Pierpont Community & Technical College** | *A.S. Information Systems*
 
 ### 📜 Certifications
-| Core Infrastructure | Security & Cloud | Specialty |
-| :--- | :--- | :--- |
-| **CompTIA Network+** | **CompTIA Security+** | **ITIL 4 Foundation** |
-| **CompTIA A+** | **CompTIA Cloud+** | **LPI Linux Essentials** |
-| **Comptia CSIS / CIOS** | **CompTIA CCAP / CSCP** | **Google IT Support** |
-| **Cisco CCNA** (In Progress) |  | **IT Suppport / A+ Dual Credential** |
+<table>
+  <tr>
+    <td align="center"><a href="LINK_1"><img src="BADGE_URL_1" width="150px"/><br/><b>CompTIA A+</b></a></td>
+    <td align="center"><a href="LINK_2"><img src="BADGE_URL_2" width="150px"/><br/><b>Network+</b></a></td>
+    <td align="center"><a href="LINK_3"><img src="BADGE_URL_3" width="150px"/><br/><b>Security+</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="LINK_4"><img src="BADGE_URL_4" width="150px"/><br/><b>LPI Linux Essentials</b></a></td>
+    <td align="center"><a href="LINK_5"><img src="BADGE_URL_5" width="150px"/><br/><b>AWS Cloud Prac.</b></a></td>
+    <td align="center"><a href="LINK_6"><img src="BADGE_URL_6" width="150px"/><br/><b>ITIL 4</b></a></td>
+  </tr>
+  </table>
 ---
 
 ### 🛠️ Tech Stack
